@@ -1,0 +1,41 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
+  .header {
+    font-weight: bold;
+    background-color: #C0C0C0;
+    padding: 0.5rem 2rem;
+  }
+  
+  .section {
+    padding: 0.5rem 2rem;
+  }
+  
+  .section-left {
+    border-right: 1px solid black;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  
+  .hidden {
+    visibility: hidden;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 0.5rem;
+  }
+  
+  
